@@ -29,23 +29,8 @@ React 19 · TypeScript · Vite 6 · Tailwind CSS 4 · lucide-react
 Front-end em SPA, sem framework de estado: os dados de negócio (planos, bairros, FAQ)
 ficam centralizados em `src/data/` e chegam aos componentes por props.
 
-## Como a gente escreve código
-
-Todo repositório aqui segue o `design.md` da marca. Em resumo:
-
-- **Segredos só no `.env`.** Chave de API, token e senha nunca entram no Git. O `.env`
-  está no `.gitignore` e nenhuma variável secreta usa o prefixo `VITE_`.
-- **Nada de dado inventado.** Sem depoimento fake, sem nota, sem contador de clientes,
-  sem selo sem lastro. Se o número não existe de verdade, ele não aparece na tela.
-- **Duas fontes.** Aclonica em `h1` e `h2`, Poppins no resto.
-- **Cor só por token.** A paleta vive em variáveis CSS; hex solto no componente não passa.
-- **Texto com fato dentro.** Preço, prazo, bairro e forma de pagamento no lugar de adjetivo.
-- **Contraste WCAG AA**, área de toque de 44×44px, navegação completa por teclado e
-  layout testado em 360px, 768px e 1120px.
-- **Movimento contido.** Acordeão e modal, nada de seção aparecendo na rolagem.
-
 ## Contato
 
-Assinatura, dúvida sobre bairro atendido ou dia de entrega: fale com a gente no WhatsApp.
+Assinatura, dúvida sobre bairro atendido ou dia de entrega: fale com a gente no WhatsApp (31) 2516-7561.
 
 <!-- Confirme o número antes de publicar: WhatsApp (31) 0000-0000 -->
